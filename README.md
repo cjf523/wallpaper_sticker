@@ -6,7 +6,7 @@ PyQt5 is used with Python.
 
 Resolution used: 1920x1080
 
-![](result.gif)
+![](result_screen.gif)
 
 ## Run
 
